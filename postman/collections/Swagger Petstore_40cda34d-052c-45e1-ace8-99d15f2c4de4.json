@@ -618,7 +618,7 @@
                     ]
                 },
                 {
-                    "name": "Update an existing pet",
+                    "name": " KOOL Update an existing pet",
                     "id": "9938bfc7-4c4d-4444-8305-893df484e5d0",
                     "request": {
                         "auth": {
