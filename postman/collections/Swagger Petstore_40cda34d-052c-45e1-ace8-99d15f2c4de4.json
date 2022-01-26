@@ -13,7 +13,7 @@
                     "name": "{pet Id}",
                     "item": [
                         {
-                            "name": "Find pet by ID",
+                            "name": "Find pet by ID OR NOR",
                             "id": "f62cfd9d-8226-4eb1-a5a4-af26eeb3b547",
                             "request": {
                                 "auth": {
@@ -759,7 +759,7 @@
                     ]
                 },
                 {
-                    "name": "Finds Pets by status",
+                    "name": "Finds Pets TESTLO by status",
                     "id": "ef67142c-eef9-45d1-88fc-488c10beeb5f",
                     "request": {
                         "auth": {
